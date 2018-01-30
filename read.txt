@@ -1,3 +1,4 @@
 this is a readme
 readme is a txt
 three
+echo "/usr/bin/"
